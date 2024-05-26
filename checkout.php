@@ -159,11 +159,12 @@
                 <div class="payment-method">
                     <div class="bri">
                         <input type="radio" name="payment" id="radio-bri" value="BRI" onclick="toggleInput('radio-bri')"> Bank BRI
-                        <p><input type="text" name="norekbri" id="norekbri" placeholder="Masukkan No Rekening"></p>
+                        <!-- <p><input type="text" name="norekbri" id="norekbri" placeholder="Masukkan No Rekening"></p> -->
                     </div>
+                    <br>
                     <div class="dana">
                         <input type="radio" name="payment" id="radio-dana" value="dana" onclick="toggleInput('radio-dana')"> DANA
-                        <p><input type="text" name="dana" id="dana" placeholder="Masukkan No DANA"></p>
+                        <!-- <p><input type="text" name="dana" id="dana" placeholder="Masukkan No DANA"></p> -->
                     </div>
 
                     <!-- <p><input type="radio" name="payment" id="payment" value="shoppe"> Shoppe</p> -->
@@ -174,6 +175,7 @@
                     </div>
                     <div class="jasa" >
                         <input type="radio" name="jasa" id="jnt" value="jnt"> JNT Express <br>
+                        <br>
                         <input type="radio" name="jasa" id="jne" value="jne"> JNE Express
                     </div>
                 </div>
