@@ -92,7 +92,7 @@
                     <tr>
                         <td><input type="checkbox" name="cart" class="cart-checkbox" onclick="checkIfAllChecked()" onclick="updateTotal()"></td>
                         <td id="foto-barang">
-                            <img src="https://img.freepik.com/premium-photo/3d-illustration-winter-shirt_874909-7446.jpg?w=360" alt="">
+                            <img src="img/kemeja-pria.png" alt="">
                         </td>
                         <td>Kemeja Coklat Pria</td>
                         <td>
@@ -113,7 +113,7 @@
                     <tr>
                         <td><input type="checkbox" name="cart" class="cart-checkbox" onclick="checkIfAllChecked()" onclick="updateTotal()"></td>
                         <td id="foto-barang">
-                            <img src="https://img.freepik.com/premium-photo/3d-illustration-winter-shirt_874909-7446.jpg?w=360" alt="">
+                            <img src="img/kemeja-pria.png" alt="">
                         </td>
                         <td>Kemeja Coklat Pria</td>
                         <td>
@@ -134,7 +134,7 @@
                     <tr>
                         <td><input type="checkbox" name="cart" class="cart-checkbox" onclick="checkIfAllChecked()" onclick="updateTotal()"></td>
                         <td id="foto-barang">
-                            <img src="https://img.freepik.com/premium-photo/3d-illustration-winter-shirt_874909-7446.jpg?w=360" alt="">
+                            <img src="img/kemeja-pria.png" alt="">
                         </td>
                         <td>Kemeja Coklat Pria</td>
                         <td>

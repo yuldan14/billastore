@@ -76,11 +76,41 @@
 
         <!-- Informasi Profil -->
     <section id="profil">
-        
+        <div class="profil-head">
+            <h4><b>INFORMASI AKUN</b></h4>
+        </div>
+        <!-- Form Profil -->
+        <div class="form-container">
+        <!-- form action arahin buat save sril, sama tombol ubah nya -->
+        <form action="">
+        <table>
+            <tr>
+                <td style="width:200px"><label for="nama">Nama: </label></td>
+                <td><input type="text" name="nama" id="nama" value="Yuldan Nur Addinsyah" ></td>
+                <td><button id="ubah-nama" class="ubah">Ubah</button></td>
+            </tr>
+            <tr>
+                <td><label for="email">Email: </label></td>
+                <td><input type="text" name="email" id="email" value="yuldann6@gmail.com" ></td>
+                <td><button id="ubah-email" class="ubah">Ubah</button></td>
+            </tr>
+            <tr>
+                <td><label for="alamat">Alamat: </label></td>
+                <td><input type="text" name="alamat" id="alamat" value="Jalan Siliwangi" ></td>
+                <td><button id="ubah-alamat" class="ubah">Ubah</button></td>
+            </tr>
+        </table>
+            <br><br><br>
+            <div class="simpan">
+            <button type="submit" id="simpan">Simpan</button>
+            </div>
+        </form>
+        </div>
     </section>
 
 
-    
+
+    <!-- Script tombol ubah -->
 
     <!-- bootstrap -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>

@@ -856,4 +856,42 @@ section#produk-page{
   padding-bottom: 3rem;
 }
 
+
+/* HALAMAN PROFIL */
+section#profil{
+  margin-top: 3rem;
+}
+section#profil .profil-head{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 3rem;
+}
+section#profil .form-container{
+  display: flex;
+  justify-content: center;
+}
+
+.form-container form input{
+  border: none;
+  width: 30vw;
+  box-sizing: border-box;
+  background: transparent;
+}
+.form-container form button.ubah{
+  background: transparent;
+  border: none;
+}
+.form-container form .simpan{
+  justify-content: center;
+  display: flex;
+}
+.form-container form button#simpan{
+  border: none;
+  background-color: var(--span);
+  padding: 10px 15px;
+  border-radius: 12px;
+  color: white;
+  font-weight: 700;
+}
+
 /* Responsif */
