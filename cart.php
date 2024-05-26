@@ -98,7 +98,7 @@
                         <td>
                             <select name="size" id="size">
                                 <option value="S">Ukuran - S</option>
-                                <option value="M">Ukurna - M</option>
+                                <option value="M">Ukuran - M</option>
                                 <option value="L">Ukuran - L</option>
                             </select>
                         </td>
@@ -119,7 +119,7 @@
                         <td>
                             <select name="size" id="size">
                                 <option value="S">Ukuran - S</option>
-                                <option value="M">Ukurna - M</option>
+                                <option value="M">Ukuran - M</option>
                                 <option value="L">Ukuran - L</option>
                             </select>
                         </td>
@@ -140,7 +140,7 @@
                         <td>
                             <select name="size" id="size">
                                 <option value="S">Ukuran - S</option>
-                                <option value="M">Ukurna - M</option>
+                                <option value="M">Ukuran - M</option>
                                 <option value="L">Ukuran - L</option>
                             </select>
                         </td>
